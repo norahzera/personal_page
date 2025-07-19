@@ -8,10 +8,14 @@
     grid-template-columns: 1fr 3fr 2fr;
     margin: auto;
     gap: 3%;
-    
+    margin: auto;
+    justify-content: center;
     display: grid;
 }
 .main-grid-item{
     width: 30%;
    padding: 5%; 
+   text-align: center;
+   
+   background-color: palevioletred;
 }
