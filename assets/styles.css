@@ -3,3 +3,13 @@
     font-size: 15%;
     color: black;
 }
+.main-grid-container{
+    width: 90%;
+    grid-template-columns: 1fr 3fr 2fr;
+    margin: auto;
+    
+    display: grid;
+}
+.main-grid-item{
+   padding: 5%; 
+}
