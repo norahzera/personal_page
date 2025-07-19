@@ -11,5 +11,6 @@
     display: grid;
 }
 .main-grid-item{
+    width: 30%;
    padding: 5%; 
 }
